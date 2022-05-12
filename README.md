@@ -2,7 +2,7 @@ About
 
 This is a smart building system. The goal of the system is to get information from the sensors and to activate the appropriate device, when needed.
 All of the system's components are called 'Agents', and new agents can be added dynamically.
-All smart house components are derived from two files. 
+All smart building components are derived from two files. 
 There are several kinds of sensors and controllers of devices.
 
 The sensors send information using TCP comumnication protocol. 
